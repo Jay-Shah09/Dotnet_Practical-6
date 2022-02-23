@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-6\BitArraySample\bin\Debug\net6.0\BitArraySample.exe
+D:\.NET\College Assignments\Practical-6\BitArraySample\bin\Debug\net6.0\BitArraySample.deps.json
+D:\.NET\College Assignments\Practical-6\BitArraySample\bin\Debug\net6.0\BitArraySample.runtimeconfig.json
+D:\.NET\College Assignments\Practical-6\BitArraySample\bin\Debug\net6.0\BitArraySample.dll
+D:\.NET\College Assignments\Practical-6\BitArraySample\bin\Debug\net6.0\ref\BitArraySample.dll
+D:\.NET\College Assignments\Practical-6\BitArraySample\bin\Debug\net6.0\BitArraySample.pdb
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.dll
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\ref\BitArraySample.dll
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.pdb
+D:\.NET\College Assignments\Practical-6\BitArraySample\obj\Debug\net6.0\BitArraySample.genruntimeconfig.cache

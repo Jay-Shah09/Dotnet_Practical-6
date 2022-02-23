@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\bin\Debug\net6.0\Lambda-2.exe
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\bin\Debug\net6.0\Lambda-2.deps.json
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\bin\Debug\net6.0\Lambda-2.runtimeconfig.json
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\bin\Debug\net6.0\Lambda-2.dll
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\bin\Debug\net6.0\ref\Lambda-2.dll
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\bin\Debug\net6.0\Lambda-2.pdb
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.dll
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\ref\Lambda-2.dll
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.pdb
+D:\.NET\College Assignments\Practical-6\LambdaExpressions\Lambda-2\obj\Debug\net6.0\Lambda-2.genruntimeconfig.cache

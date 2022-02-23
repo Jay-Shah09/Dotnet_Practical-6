@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.exe
+D:\.NET\College Assignments\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+D:\.NET\College Assignments\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+D:\.NET\College Assignments\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.dll
+D:\.NET\College Assignments\Practical-6\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+D:\.NET\College Assignments\Practical-6\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.dll
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+D:\.NET\College Assignments\Practical-6\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache

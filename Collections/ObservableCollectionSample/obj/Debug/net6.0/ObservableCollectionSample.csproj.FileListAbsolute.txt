@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+D:\.NET\College Assignments\Practical-6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache

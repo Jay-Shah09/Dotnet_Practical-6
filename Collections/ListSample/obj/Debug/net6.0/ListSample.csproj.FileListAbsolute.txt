@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-6\ListSample\bin\Debug\net6.0\ListSample.exe
+D:\.NET\College Assignments\Practical-6\ListSample\bin\Debug\net6.0\ListSample.deps.json
+D:\.NET\College Assignments\Practical-6\ListSample\bin\Debug\net6.0\ListSample.runtimeconfig.json
+D:\.NET\College Assignments\Practical-6\ListSample\bin\Debug\net6.0\ListSample.dll
+D:\.NET\College Assignments\Practical-6\ListSample\bin\Debug\net6.0\ref\ListSample.dll
+D:\.NET\College Assignments\Practical-6\ListSample\bin\Debug\net6.0\ListSample.pdb
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.dll
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ref\ListSample.dll
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.pdb
+D:\.NET\College Assignments\Practical-6\ListSample\obj\Debug\net6.0\ListSample.genruntimeconfig.cache
